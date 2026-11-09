@@ -41,7 +41,7 @@ class Orthograph < Formula
   on_macos do
     on_arm do
       url "https://github.com/canticode/orthograph/releases/download/v0.1.0/orthograph-0.1.0-darwin-arm64.tar.gz"
-      sha256 "09e89a9a01aa3302145e1c7735a6d695f801bbd321acc1ee370b153d3b7b3415"
+      sha256 "506fa216090bb566d84bf0b562904127fd3e585a700155d66f797c68e50df3c3"
     end
   end
 
